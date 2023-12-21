@@ -1,10 +1,5 @@
-import './App.css';
-import Watches from './components/Watches/Watches';
+import { Watches } from "./components";
 
-function App() {
-  return (
-    <Watches />
-  );
-}
+const App = () => <Watches />;
 
 export default App;
