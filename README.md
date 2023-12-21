@@ -2,7 +2,7 @@
 ===
 
 
-deployment: https://marinaustinovich.github.io/ra16-homeworks-lifecycle-http-watches/
+deployment: https://watches-kw97.onrender.com
 
 
 Наверняка вы видели в офисах многих компаний установленные часы, показывающие время в разных столицах мира:
